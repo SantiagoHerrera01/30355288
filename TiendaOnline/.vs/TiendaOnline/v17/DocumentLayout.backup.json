@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|solutionrelative:tiendaonline.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|solutionrelative:tiendaonline.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.api\\data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|solutionrelative:tiendaonline.api\\data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.api\\tiendaonline.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|solutionrelative:tiendaonline.api\\tiendaonline.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDCA7E9-8CB9-4A47-8D5A-9CB3203906DD}|TiendaOnline.API\\TiendaOnline.API.csproj|solutionrelative:tiendaonline.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF83141A-DB8B-45D7-9A93-2814CFCF3196}|TiendaOnline.WEB\\TiendaOnline.WEB.csproj|c:\\users\\ryzen 5\\desktop\\sena\\backc#2\\tiendaonline\\tiendaonline.web\\tiendaonline.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF83141A-DB8B-45D7-9A93-2814CFCF3196}|TiendaOnline.WEB\\TiendaOnline.WEB.csproj|solutionrelative:tiendaonline.web\\tiendaonline.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250326204244_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs",
+              "RelativeToolTip": "TiendaOnline.API\\Migrations\\20250326204244_MigracionInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:42:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250326204158_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs",
+              "RelativeToolTip": "TiendaOnline.API\\Migrations\\20250326204158_MigracionInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:41:58.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\Program.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Program.cs",
+              "RelativeToolTip": "TiendaOnline.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:09:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\appsettings.json",
+              "RelativeToolTip": "TiendaOnline.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T19:55:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Data\\TiendaDbContext.cs",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\Data\\TiendaDbContext.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Data\\TiendaDbContext.cs",
+              "RelativeToolTip": "TiendaOnline.API\\Data\\TiendaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:55:18.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\Models\\Cliente.cs",
+              "RelativeToolTip": "TiendaOnline.API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:34:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TiendaOnline.WEB.csproj",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.WEB\\TiendaOnline.WEB.csproj",
+              "RelativeDocumentMoniker": "TiendaOnline.WEB\\TiendaOnline.WEB.csproj",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.WEB\\TiendaOnline.WEB.csproj",
+              "RelativeToolTip": "TiendaOnline.WEB\\TiendaOnline.WEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T17:36:41.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TiendaOnline.API.csproj",
+              "DocumentMoniker": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\TiendaOnline.API.csproj",
+              "RelativeDocumentMoniker": "TiendaOnline.API\\TiendaOnline.API.csproj",
+              "ToolTip": "C:\\Users\\RYZEN 5\\Desktop\\Sena\\BackC#2\\TiendaOnline\\TiendaOnline.API\\TiendaOnline.API.csproj",
+              "RelativeToolTip": "TiendaOnline.API\\TiendaOnline.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T17:36:38.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

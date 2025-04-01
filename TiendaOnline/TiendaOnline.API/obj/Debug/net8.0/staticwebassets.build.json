@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y5IfZ85nijiaxJuY2oCIOh2+giqiX0Sg0hCadfRvjpM=",
+  "Source": "TiendaOnline.API",
+  "BasePath": "_content/TiendaOnline.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
